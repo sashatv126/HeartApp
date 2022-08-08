@@ -23,3 +23,12 @@ At the moment, most of the UI and animations have already been implemented in th
 
 <img width="300" alt="IMAGE 2022-08-08 13_21_49 1" src="https://user-images.githubusercontent.com/99916289/183398037-af687cde-c969-495a-8324-98fff530929f.png">
 
+Stack: 
+1.CleanSwift
+2.AVFoundation
+3.HealthKit
+4.Firebase
+5.CustomUI
+6.Apple HIG
+7.AppleMetrica
+8.REST API
