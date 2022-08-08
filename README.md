@@ -11,6 +11,10 @@ At the moment, most of the UI and animations have already been implemented in th
 
 <img width="300" alt="IMAGE 2022-08-08 13_20_35 1" src="https://user-images.githubusercontent.com/99916289/183397769-a1635f93-9508-45a2-a921-f4c275d49ab6.png">
 
+<img width="300" alt="IMAGE 2022-08-08 13_29_45 1-2" src="https://user-images.githubusercontent.com/99916289/183398581-47030323-8c48-4f49-9dea-e90d4f823a6d.png">
+
+<img width="300" alt="IMAGE 2022-08-08 13_29_32 1" src="https://user-images.githubusercontent.com/99916289/183398600-ba8cb589-3434-4d52-9130-b07c41d0e6ab.png">
+
 <img width="300" alt="IMAGE 2022-08-08 13_20_48 1" src="https://user-images.githubusercontent.com/99916289/183397814-eef366c6-e6ae-45b3-a513-75c83d30d6bd.png">
 
 <img width="300" alt="IMAGE 2022-08-08 13_21_17 1" src="https://user-images.githubusercontent.com/99916289/183397871-d9960dda-1c18-41d0-bbbf-997c7d985a78.png">
