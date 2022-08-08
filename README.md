@@ -7,8 +7,15 @@ The remaining stages will appear during further development.
 At the moment, most of the UI and animations have already been implemented in the application, the heart rate calculation algorithm has been integrated with its further display on the screen
 
 
-![IMAGE 2022-08-08 13:07:17](https://user-images.githubusercontent.com/99916289/183394121-f305ad58-9b97-46bb-8a92-730842bbcbc7.jpg)
-![IMAGE 2022-08-08 13:07:42](https://user-images.githubusercontent.com/99916289/183394201-708eda97-065e-4ceb-b878-e2678590464f.jpg)
-![IMAGE 2022-08-08 13:07:54](https://user-images.githubusercontent.com/99916289/183394250-8fb3de15-6735-41b3-87fd-5902ae2123de.jpg)
-![IMAGE 2022-08-08 13:07:59](https://user-images.githubusercontent.com/99916289/183394266-26b8f786-f708-454a-a044-e75324d7b00d.jpg)
-![IMAGE 2022-08-08 13:08:01](https://user-images.githubusercontent.com/99916289/183394280-936787b6-7675-4f0e-bd3a-01ed87b63203.jpg)
+<img width="300" alt="IMAGE 2022-08-08 13_20_11 1-2" src="https://user-images.githubusercontent.com/99916289/183397663-8a0ac97a-697f-40fc-b2ad-ed342567f972.png">
+
+<img width="300" alt="IMAGE 2022-08-08 13_20_35 1" src="https://user-images.githubusercontent.com/99916289/183397769-a1635f93-9508-45a2-a921-f4c275d49ab6.png">
+
+<img width="300" alt="IMAGE 2022-08-08 13_20_48 1" src="https://user-images.githubusercontent.com/99916289/183397814-eef366c6-e6ae-45b3-a513-75c83d30d6bd.png">
+
+<img width="300" alt="IMAGE 2022-08-08 13_21_17 1" src="https://user-images.githubusercontent.com/99916289/183397871-d9960dda-1c18-41d0-bbbf-997c7d985a78.png">
+
+<img width="300" alt="IMAGE 2022-08-08 13_20_48 1" src="https://user-images.githubusercontent.com/99916289/183397950-13bf80b2-5aff-42cf-a1a8-25f0c63fba62.png">
+
+<img width="300" alt="IMAGE 2022-08-08 13_21_49 1" src="https://user-images.githubusercontent.com/99916289/183398037-af687cde-c969-495a-8324-98fff530929f.png">
+
